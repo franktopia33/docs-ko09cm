@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-qc4h5h.asiabola14.com/sitemap.xml
